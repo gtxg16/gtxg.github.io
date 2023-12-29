@@ -124,11 +124,11 @@ ul li {
    cursor: pointer;
 }
 
-.inline-list li {
+.inline-list ul li {
     display: inline;
 }
 
-.block-list li {
+.block-list ul li {
     display: block;
 }
 
