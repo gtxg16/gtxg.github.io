@@ -123,6 +123,7 @@ ul li {
    transition: background-color 0.2s;
    box-shadow: 0px 0px 15px #0000002c;
    cursor: pointer;
+   display: block;
 }
 
 li:hover {
@@ -132,9 +133,7 @@ li:hover {
 li.selected {
    background-color: #101010bb;
 }
-li {
-    display: block;
-}
+
 button,
 a.link {
    all: unset;
