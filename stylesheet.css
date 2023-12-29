@@ -132,7 +132,9 @@ li:hover {
 li.selected {
    background-color: #101010bb;
 }
-
+li {
+    display: block;
+}
 button,
 a.link {
    all: unset;
